@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LUNGEN</string>
+    <string-array name="Gender">
+        <item></item>
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="Choice">
+        <item></item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
